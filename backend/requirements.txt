@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+nltk
+fastapi
+uvicorn
+joblib
+python-multipart
+pymongo
+passlib[bcrypt]
+python-jose
